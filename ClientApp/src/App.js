@@ -12,7 +12,7 @@ import './custom.css'
 
 export default class App extends Component {
   static displayName = App.name;
-
+    // neki komentar
   render () {
     return (
       <Layout>
